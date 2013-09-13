@@ -31,7 +31,7 @@ class JConfig {
 	public $offset = 'UTC';
 	public $mailer = 'mail';
 	public $mailfrom = 'titanbt@gmail.com';
-	public $fromname = 'Hệ thống đào tạo trực tuyến';
+	public $fromname = 'Hệ thống đào tạo trực tuyến E-Learning';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '0';
 	public $smtpuser = '';
